@@ -2,11 +2,12 @@
 
 Build docker image 
 
-cd python-docker
+```cd python-docker
 
 docker build -t <app-name>:<tag> .
+```
 
-run docker container
+# run docker container
 
 docker run test-docker
 Hello World
