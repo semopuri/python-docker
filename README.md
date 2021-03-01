@@ -3,6 +3,7 @@
 Build docker image 
 
 cd python-docker
+
 docker build -t <app-name>:<tag> .
 
 run docker container
